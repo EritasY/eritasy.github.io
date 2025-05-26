@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Graduate Student, Department of Astrophysical Sciences, Princeton University
 
