@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Graduate Student, Department of Astrophysical Sciences, Princeton<a href='#'>Affiliations</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: eritas_peyton.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>4 Ivy Lane</p>
@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This is Eritas Yang from Princeton University!!
+This is Eritas Yang, a graduate Student from <a href='https://web.astro.princeton.edu/'>Department of Astrophysical Sciences</a> at Princeton University.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
