@@ -9,6 +9,7 @@
   color: "#009f36"
 
 "ApJ":
+  color: "#1f77b4"
   url: https://iopscience.iop.org/journal/0004-637X
 
 "ApJL":
@@ -16,3 +17,6 @@
 
 "MNRAS": 
   url: https://academic.oup.com/mnras
+
+"arXiv":
+  color: "#ffcf8c"
