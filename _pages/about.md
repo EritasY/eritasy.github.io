@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student, Department of Astrophysical Sciences, Princeton<a href='#'>Affiliations</a>
+subtitle: Graduate Student, Department of Astrophysical Sciences, Princeton University
 
 profile:
   align: right
