@@ -73,15 +73,15 @@
   type: nested_list
   contents:
     - title: Planetary Dynamics
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Sleep
-      items:
-        - Description 1.
-        - Description 2.
+      # items:
+        # - Description 1.
+        # - Description 2.
+    # - title: Sleep
+      # items:
+        # - Description 1.
+        # - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> hiking, sleeping.
+    - Hobbies: <a href="https://www.youtube.com/channel/UCBz3PtO67Pa7149xApU44pg">hiking</a>.
