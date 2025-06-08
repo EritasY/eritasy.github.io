@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: eritas_peyton.jpg
+  image: eritas_yang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>4 Ivy Lane, Princeton University</p>
