@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a graduate Student from <a href='https://web.astro.princeton.edu/'>Department of Astrophysical Sciences</a> at Princeton University. I am broadly interested in dynamics and planetary evolution. Before graduate school, I was a physics major at Harvey Mudd College.
+I am a second-year graduate student from <a href='https://web.astro.princeton.edu/'>Department of Astrophysical Sciences</a> at Princeton University. I am broadly interested in dynamics and planetary evolution. Before graduate school, I was a physics major at Harvey Mudd College.
 
 Email: <a href="mailto:eritas.yang@princeton.edu">eritas.yang@princeton.edu</a>
