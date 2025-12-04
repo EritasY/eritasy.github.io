@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-art",
+          title: "Art",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/photos/";
+          },
         },{id: "news-we-discovered-an-extreme-trans-neptunian-object-see-the-press-release-here",
           title: 'We discovered an extreme trans-Neptunian object, see the press release here!',
           description: "",
