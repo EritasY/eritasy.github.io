@@ -737,18 +737,17 @@ footer.sticky-bottom {
       .abbr {
         margin-bottom: 0.5rem;
 
-        abbr {
+        .badge {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
           color: var(--global-card-bg-color) !important;
+          transition: transform 0.2s ease-in-out;
 
-          a {
-            color: white;
-
-            &:hover {
-              text-decoration: none;
-            }
+          &:hover {
+            transform: scale(1.1);
+            color: var(--global-card-bg-color) !important;
+            text-decoration: none;
           }
         }
 
@@ -1427,5 +1426,23 @@ figure.cover {
   /* mouse over link */
   a.cover-link:hover {
     color: #23212d !important;
+  }
+}
+
+// Sidebar
+#toc-sidebar {
+  font-size: 1.2rem;
+
+  .nav-link {
+    color: var(--global-text-color);
+
+    &:hover {
+      color: var(--global-theme-color);
+    }
+
+    &.active {
+      color: var(--global-theme-color);
+      font-weight: bold;
+    }
   }
 }

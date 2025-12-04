@@ -1,6 +1,6 @@
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+  color: "#ff871f"
 
 "PhysRev":
   url: https://journals.aps.org/
@@ -9,7 +9,7 @@
   color: "#009f36"
 
 "ApJ":
-  color: "#1f77b4"
+  color: "#ff871f"
   url: https://iopscience.iop.org/journal/0004-637X
 
 "ApJL":
@@ -19,4 +19,4 @@
   url: https://academic.oup.com/mnras
 
 "arXiv":
-  color: "#ffcf8c"
+  color: "#85b6ff"
