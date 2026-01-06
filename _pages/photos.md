@@ -116,8 +116,8 @@ images:
     <div class="photo-caption">Digital Art: The Final Supper</div>
   </div>
   <div class="grid-item">
-    <a href="{{ '/assets/img/arts/spongebob.JPG' | relative_url }}" data-lightbox="photos">
-      <img src="{{ '/assets/img/arts/spongebob.JPG' | relative_url }}" alt="Digital Art">
+    <a href="{{ '/assets/img/arts/spongebob.jpg' | relative_url }}" data-lightbox="photos">
+      <img src="{{ '/assets/img/arts/spongebob.jpg' | relative_url }}" alt="Digital Art">
     </a>
     <div class="photo-caption">Digital Art</div>
   </div>
