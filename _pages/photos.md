@@ -74,8 +74,8 @@ images:
 
 <div class="grid">
   <div class="grid-item">
-    <a href="{{ '/assets/img/arts/girl.jpg' | relative_url }}" data-lightbox="photos" data-title="Digital Art">
-      <img src="{{ '/assets/img/arts/girl.jpg' | relative_url }}" alt="Digital Art">
+    <a href="{{ '/assets/img/arts/girl.jpeg' | relative_url }}" data-lightbox="photos" data-title="Digital Art">
+      <img src="{{ '/assets/img/arts/girl.jpeg' | relative_url }}" alt="Digital Art">
     </a>
     <div class="photo-caption">Digital Art</div>
   </div>
@@ -86,38 +86,38 @@ images:
     <div class="photo-caption">Oil Painting on Canvas</div>
   </div>
   <div class="grid-item">
-    <a href="{{ '/assets/img/arts/tree.jpg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting: &quot;Serenity&quot;">
-      <img src="{{ '/assets/img/arts/tree.jpg' | relative_url }}" alt="Oil painting">
+    <a href="{{ '/assets/img/arts/tree.jpeg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting: &quot;Serenity&quot;">
+      <img src="{{ '/assets/img/arts/tree.jpeg' | relative_url }}" alt="Oil painting">
     </a>
     <div class="photo-caption">Oil Painting on Canvas</div>
   </div>
   <div class="grid-item">
-    <a href="{{ '/assets/img/arts/stair.jpg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting">
-      <img src="{{ '/assets/img/arts/stair.jpg' | relative_url }}" alt="Oil Painting">
+    <a href="{{ '/assets/img/arts/stair.jpeg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting">
+      <img src="{{ '/assets/img/arts/stair.jpeg' | relative_url }}" alt="Oil Painting">
     </a>
     <div class="photo-caption">Oil Painting on Canvas</div>
   </div>
   <div class="grid-item">
-    <a href="{{ '/assets/img/arts/fruit.jpg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting">
-      <img src="{{ '/assets/img/arts/fruit.jpg' | relative_url }}" alt="Oil Painting">
+    <a href="{{ '/assets/img/arts/fruit.jpeg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting">
+      <img src="{{ '/assets/img/arts/fruit.jpeg' | relative_url }}" alt="Oil Painting">
     </a>
     <div class="photo-caption">Oil Painting on Canvas</div>
   </div>
   <div class="grid-item">
-    <a href="{{ '/assets/img/arts/clock.jpg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting">
-      <img src="{{ '/assets/img/arts/clock.jpg' | relative_url }}" alt="Oil Painting">
+    <a href="{{ '/assets/img/arts/clock.jpeg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting">
+      <img src="{{ '/assets/img/arts/clock.jpeg' | relative_url }}" alt="Oil Painting">
     </a>
     <div class="photo-caption">Oil Painting on Canvas</div>
   </div>
   <div class="grid-item">
-    <a href="{{ '/assets/img/arts/dinner.jpg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting: &quot;Dinner&quot;">
-      <img src="{{ '/assets/img/arts/dinner.jpg' | relative_url }}" alt="Digital Art">
+    <a href="{{ '/assets/img/arts/dinner.jpeg' | relative_url }}" data-lightbox="photos" data-title="Oil Painting: &quot;Dinner&quot;">
+      <img src="{{ '/assets/img/arts/dinner.jpeg' | relative_url }}" alt="Digital Art">
     </a>
     <div class="photo-caption">Digital Art: The Final Supper</div>
   </div>
   <div class="grid-item">
-    <a href="{{ '/assets/img/arts/spongebob.jpg' | relative_url }}" data-lightbox="photos">
-      <img src="{{ '/assets/img/arts/spongebob.jpg' | relative_url }}" alt="Digital Art">
+    <a href="{{ '/assets/img/arts/spongebob.jpeg' | relative_url }}" data-lightbox="photos">
+      <img src="{{ '/assets/img/arts/spongebob.jpeg' | relative_url }}" alt="Digital Art">
     </a>
     <div class="photo-caption">Digital Art</div>
   </div>
