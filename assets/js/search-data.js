@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "TBD",
+          description: "My research projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -40,7 +40,17 @@ ninja.data = [{
         },{id: "news-we-discovered-an-extreme-trans-neptunian-object-see-the-press-release-here",
           title: 'We discovered an extreme trans-Neptunian object, see the press release here!',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-hot-jupiters",
+          title: 'Hot Jupiters',
+          description: "Formation and migration of hot Jupiters",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project1.html";
+            },},{id: "projects-orbital-stability",
+          title: 'Orbital Stability',
+          description: "Mean motion resonances, chaotic diffusion, and the stability of planetary systems",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project2.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
