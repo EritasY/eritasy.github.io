@@ -126,7 +126,7 @@ collections:
       layout: post
     output: true
   projects:
-    output: false
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
