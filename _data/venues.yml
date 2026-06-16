@@ -14,6 +14,7 @@
 
 "ApJL":
   url: https://iopscience.iop.org/journal/2041-8205
+  color: "#ff871f"
 
 "MNRAS": 
   url: https://academic.oup.com/mnras
